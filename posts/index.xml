@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WardenSMP</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on WardenSMP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the WardenSMP website!</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>WardenSMP is a Minecraft Java survival server with plenty to do! We are currently on the 2nd season and plan to add a lot of new, unique features! To join, you can join the discord or by emailing _A13x here: alexbogo2007@protonmail.com
+If you&amp;rsquo;d like, you can check out the WardenSMP Season 1 Recap</description>
+      <content>&lt;p&gt;WardenSMP is a Minecraft Java survival server with plenty to do! We are currently on the 2nd season and plan to add a lot of new, unique features! To join, you can join &lt;a href=&#34;https://discord.gg/6zX9n2RGmT&#34;&gt;the discord&lt;/a&gt; or by emailing _A13x here: &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20join%20WardenSMP%20because...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like, you can check out the &lt;a href=&#34;/recap1/&#34;&gt;WardenSMP Season 1 Recap&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
