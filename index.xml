@@ -6,17 +6,17 @@
     <description>Recent content on WardenSMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Season 4 Gameplay Guidelines (vA.1)</title>
+      <title>Season 4 Gameplay Guidelines (Candidate1)</title>
       <link>/guidelines/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>/guidelines/</guid>
       <description>Please also read our Rules The goal of these guidelines is to be a list of good practices on the server.
 Although these are not enforced, I highly suggest reading through these to help make the WardenSMP experience as great as it can be!
 Don&amp;rsquo;t Kill Pets or Destroy People&amp;rsquo;s Builds
-Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work, expecting no consequences from them!</description>
+Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!</description>
       <content>&lt;h1 id=&#34;please-also-read-our-rulesrules&#34;&gt;&lt;strong&gt;Please also read our &lt;a href=&#34;/rules&#34;&gt;&lt;strong&gt;&lt;code&gt;Rules&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The goal of these guidelines is to be a list of good practices on the server.&lt;/strong&gt;&lt;/p&gt;
@@ -26,13 +26,13 @@ Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets 
 &lt;li&gt;
 &lt;p&gt;Don&amp;rsquo;t Kill Pets or Destroy People&amp;rsquo;s Builds&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work, expecting no consequences from them!&lt;/li&gt;
+&lt;li&gt;Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Take your time&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;There is no reason to rush. Please don&amp;rsquo;t be the person that obtains maxed netherite gear within the first week! Bring the &lt;em&gt;Long-Term&lt;/em&gt; into &amp;ldquo;Long-Term, Free-To-Play Survival&amp;rdquo;!&lt;/li&gt;
+&lt;li&gt;There is no reason to rush. Please don&amp;rsquo;t be the person who obtains maxed netherite gear within the first week! Bring the &lt;em&gt;Long-Term&lt;/em&gt; into &amp;ldquo;Long-Term, Free-To-Play Survival&amp;rdquo;!&lt;/li&gt;
 &lt;li&gt;Take your time and enjoy Minecraft for the sandbox game that it is! Whether it&amp;rsquo;s learning some redstone or starting a new building project, there is plenty to do before (and after) beating the Ender Dragon!&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -45,9 +45,92 @@ Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets 
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Don&amp;rsquo;t spam the chat&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nobody wants their screen to be filled up with garbage. Try to keep the chat relevant to the gameplay of the server.&lt;/li&gt;
+&lt;li&gt;Consider using the &amp;ldquo;/msg &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&amp;rdquo; and &amp;ldquo;/r &lt;!-- raw HTML omitted --&gt;&amp;rdquo; commands for private messages on the server.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Leave stuff for others (don&amp;rsquo;t pillage everything!)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If you come across a rare structure or biome (village, bastion, mangrove forest, etc.), try to leave items for others. This allows slower-paced players to also get a chance to progress without having to venture out for thousands of blocks to find the same thing elsewhere.&lt;/li&gt;
+&lt;li&gt;Of course, if there&amp;rsquo;s only one of something there, i.e., an armor trim, consider selling copies of it! This gives others a chance to buy it, and it gives you a chance to capitalize on your findings. Try to make it fair for less rich players, too!&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;thank-you-for-reading-our-gameplay-guidelines-&#34;&gt;Thank you for reading our gameplay guidelines! 😄&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Season 4 Rules (Candidate1)</title>
+      <link>/rules/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/rules/</guid>
+      <description>Please also read our Gameplay Guidelines The goal of these rules is to ensure everybody on this server is able to have a great experience.
+Obviously, the best judgement will be used when enforcing these rules. If you need to report something, contact _A13X.
+No Cheating (Hacking/X-Ray)
+Do not use clients, mods, or packs that give you an unfair advantage. Absolutely no lag machines or exploits in an attempt to crash or worsen the server&amp;rsquo;s performance.</description>
+      <content>&lt;h1 id=&#34;please-also-read-our-gameplay-guidelinesguidelines&#34;&gt;&lt;strong&gt;Please also read our &lt;a href=&#34;/guidelines&#34;&gt;&lt;strong&gt;&lt;code&gt;Gameplay Guidelines&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The goal of these rules is to ensure everybody on this server is able to have a great experience.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obviously, the best judgement will be used when enforcing these rules. If you need to report something, contact _A13X.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;No Cheating (Hacking/X-Ray)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Do not use clients, mods, or packs that give you an unfair advantage.&lt;/li&gt;
+&lt;li&gt;Absolutely no lag machines or exploits in an attempt to crash or worsen the server&amp;rsquo;s performance.&lt;/li&gt;
+&lt;li&gt;Please report if you suspect that somebody is hacking.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep the server family-friendly&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Keep the chat family-friendly.&lt;/li&gt;
+&lt;li&gt;No offensive remarks.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t build anything inappropriate.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t name items or mobs with inappropriate names.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Respect others (No Stealing, Only Friendly Griefing)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Do not continually target or bully somebody with the intent of upsetting them.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t take (steal) items or blocks of value from other players without their permission. This includes chests set up for things like public shops.&lt;/li&gt;
+&lt;li&gt;Although &lt;strong&gt;Greifing and Killing are not explicitly disallowed&lt;/strong&gt;, you must respect the time and effort that people have put into their work. Don&amp;rsquo;t go around the world placing random blocks or destroying landscapes that others will have to clean up if they want to use.&lt;/li&gt;
+&lt;li&gt;If you plan to prank somebody, make sure it&amp;rsquo;s not too extreme. Try to prank only people that are on friendly terms with you, and make sure your pranks don&amp;rsquo;t disrupt anybody who doesn&amp;rsquo;t want to get involved.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Contact _A13X if you need or want to suggest &lt;strong&gt;anything&lt;/strong&gt;!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Either personally or using this email address: &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20talk%20to%20you%20about...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;thank-you-for-reading-our-rules-&#34;&gt;Thank you for reading our rules! 😄&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Welcome to the WardenSMP website!</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on June 16th, and plan to stick with the vanilla survival game!
+The website has been made pink to match with the new Cherry Grove biome in the 1.20 Trails &amp;amp; Tales Update!
+Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.</description>
+      <content>&lt;p&gt;WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on &lt;a href=&#34;https://www.tickcounter.com/countdown/4207125/&#34;&gt;June 16th&lt;/a&gt;, and plan to stick with the vanilla survival game!&lt;br&gt;
+The website has been made &lt;strong&gt;pink&lt;/strong&gt; to match with the new &lt;a href=&#34;https://aka.ms/Soothing-Cherry-Grove/&#34;&gt;Cherry Grove&lt;/a&gt; biome in the 1.20 &lt;a href=&#34;https://aka.ms/Trails-and-Tales-Java&#34;&gt;Trails &amp;amp; Tales Update&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.&lt;br&gt;
+To join, please contact _A13x. If you are a member or have been invited, please join our Google Chat groups to receive announcements and to communicate. Ask _A13X to invite you.&lt;br&gt;
+Contact _A13X either directly or using &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20join%20WardenSMP%20because...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also check out our &lt;a href=&#34;/rules&#34;&gt;rules&lt;/a&gt; and &lt;a href=&#34;/guidelines/&#34;&gt;guideliness&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to take a look at our first season, you can check out the &lt;a href=&#34;/recap1/&#34;&gt;WardenSMP Season 1 Recap&lt;/a&gt;. Recaps for Seasons 2 and 3 are coming soon!&lt;/p&gt;
 </content>
     </item>
     
@@ -134,70 +217,6 @@ Doesn&amp;rsquo;t include Logs For Privacy Reasons.&lt;br&gt;
   &lt;/figure&gt;
 
 &lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Welcome to the WardenSMP website!</title>
-      <link>/posts/welcome/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/welcome/</guid>
-      <description>WardenSMP is a Minecraft Java survival server with plenty to do! We are currently about to start the 4th season and plan to stick with the vanilla base game! Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join. To join, please contact _A13x either personally or using this email address: alexbogo2007@protonmail.com. Please join our Google Chat groups to receive announcements and to communicate.</description>
-      <content>&lt;p&gt;WardenSMP is a Minecraft Java survival server with plenty to do! We are currently about to start the 4th season and plan to stick with the vanilla base game! Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join. To join, please contact _A13x either personally or using this email address: &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20join%20WardenSMP%20because...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;. Please join our Google Chat groups to receive announcements and to communicate.&lt;/p&gt;
-&lt;p&gt;You can also check out our [rules and guideliness]!&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like, you can check out the &lt;a href=&#34;/recap1/&#34;&gt;WardenSMP Season 1 Recap&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Season 2 and 3 recaps are coming soon!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Season 4 Rules (vA.1)</title>
-      <link>/rules/</link>
-      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/rules/</guid>
-      <description>Please also read our Gameplay Guidelines The goal of these rules is to ensure everybody on this server is able to have a great experience.
-Obviously, the best judgement will be used when enforcing these rules. If you need to report something, contact _A13X.
-No Cheating (Hacking/X-Ray)
-Preferably, no mods or packs that give you an unfair advantage. Absolutely no lag machines or exploits in an attempt to crash or worsen the server&amp;rsquo;s performance.</description>
-      <content>&lt;h1 id=&#34;please-also-read-our-gameplay-guidelinesguidelines&#34;&gt;&lt;strong&gt;Please also read our &lt;a href=&#34;/guidelines&#34;&gt;&lt;strong&gt;&lt;code&gt;Gameplay Guidelines&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The goal of these rules is to ensure everybody on this server is able to have a great experience.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Obviously, the best judgement will be used when enforcing these rules. If you need to report something, contact _A13X.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;No Cheating (Hacking/X-Ray)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Preferably, no mods or packs that give you an unfair advantage.&lt;/li&gt;
-&lt;li&gt;Absolutely no lag machines or exploits in an attempt to crash or worsen the server&amp;rsquo;s performance.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Keep the server family friendly&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Keep the chat family friendly.&lt;/li&gt;
-&lt;li&gt;No offensive remarks.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t build anything inappropriate.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t name items or mobs with inappropriate names.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Respect others&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Do not continually target or bully somebody with the intent of upsetting them.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Greifing and killing is not specifically disallowed&lt;/strong&gt;, however, please respect the time and effort that people have put into building and into obtaining their items.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Contact _A13X if you need or want to suggest &lt;strong&gt;anything&lt;/strong&gt;!&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Either personally or using this email address: &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20talk%20to%20you%20about...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;thank-you-for-reading-our-rules-&#34;&gt;Thank you for reading our rules! 😄&lt;/h1&gt;
 </content>
     </item>
     
