@@ -3,16 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/posts/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guidelines/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rules/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -25,6 +22,9 @@
                 />
   </url><url>
     <loc>/posts/welcome/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/rules/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/downloads/</loc>
