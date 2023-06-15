@@ -6,17 +6,17 @@
     <description>Recent content on WardenSMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Season 4 Gameplay Guidelines (Candidate1)</title>
+      <title>Season 4 Gameplay Guidelines (v1)</title>
       <link>/guidelines/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>/guidelines/</guid>
       <description>Please also read our Rules The goal of these guidelines is to be a list of good practices on the server.
 Although these are not enforced, I highly suggest reading through these to help make the WardenSMP experience as great as it can be!
 Don&amp;rsquo;t Kill Pets or Destroy People&amp;rsquo;s Builds
-Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!</description>
+Unless you want the person to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!</description>
       <content>&lt;h1 id=&#34;please-also-read-our-rulesrules&#34;&gt;&lt;strong&gt;Please also read our &lt;a href=&#34;/rules&#34;&gt;&lt;strong&gt;&lt;code&gt;Rules&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The goal of these guidelines is to be a list of good practices on the server.&lt;/strong&gt;&lt;/p&gt;
@@ -26,7 +26,7 @@ Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets 
 &lt;li&gt;
 &lt;p&gt;Don&amp;rsquo;t Kill Pets or Destroy People&amp;rsquo;s Builds&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!&lt;/li&gt;
+&lt;li&gt;Unless you want the person to take revenge, of course! Don&amp;rsquo;t kill pets or destroy people&amp;rsquo;s work if you don&amp;rsquo;t want to expect consequences from them!&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -37,7 +37,7 @@ Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Build your base near the spawn&lt;/p&gt;
+&lt;p&gt;Build your base near the spawn (or wherever everyone else is residing!)&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Although it&amp;rsquo;s tempting to explore and set up an isolated base far into the wild Minecraft world, consider the fact that you&amp;rsquo;re playing on a &lt;em&gt;Survival Multiplayer Server&lt;/em&gt;. Why isolate yourself from the rest of the player base?&lt;/li&gt;
 &lt;li&gt;Work together toward a common goal with the other members of the server. Whether it&amp;rsquo;s building a town or defeating a boss, make it a &lt;em&gt;multiplayer&lt;/em&gt; effort!&lt;/li&gt;
@@ -47,23 +47,57 @@ Unless you want the owner to take revenge, of course! Don&amp;rsquo;t kill pets 
 &lt;p&gt;Don&amp;rsquo;t spam the chat&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Nobody wants their screen to be filled up with garbage. Try to keep the chat relevant to the gameplay of the server.&lt;/li&gt;
-&lt;li&gt;Consider using the &amp;ldquo;/msg &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&amp;rdquo; and &amp;ldquo;/r &lt;!-- raw HTML omitted --&gt;&amp;rdquo; commands for private messages on the server.&lt;/li&gt;
+&lt;li&gt;Consider using the &amp;ldquo;/msg&amp;rdquo;, &amp;ldquo;/r&amp;rdquo;, or &amp;ldquo;/mail&amp;rdquo; commands for private messages on the server.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Leave stuff for others (don&amp;rsquo;t pillage everything!)&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If you come across a rare structure or biome (village, bastion, mangrove forest, etc.), try to leave items for others. This allows slower-paced players to also get a chance to progress without having to venture out for thousands of blocks to find the same thing elsewhere.&lt;/li&gt;
-&lt;li&gt;Of course, if there&amp;rsquo;s only one of something there, i.e., an armor trim, consider selling copies of it! This gives others a chance to buy it, and it gives you a chance to capitalize on your findings. Try to make it fair for less rich players, too!&lt;/li&gt;
+&lt;li&gt;Of course, if there&amp;rsquo;s only one of something there, i.e., an armor trim, consider selling copies of it! This gives others a chance to buy it, and it gives you a chance to capitalize on your findings.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Follow basic Minecraft server etiquette&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don&amp;rsquo;t leave trees floating&lt;/li&gt;
+&lt;li&gt;FILL IN creeper holes (from explosions)&lt;/li&gt;
+&lt;li&gt;When mining dirt or sand, travel a bit of a distance from where players are building/living.&lt;/li&gt;
+&lt;li&gt;Use common sense.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Contact _A13X with any questions, comments, or suggestions you may have.&lt;/p&gt;
 &lt;h1 id=&#34;thank-you-for-reading-our-gameplay-guidelines-&#34;&gt;Thank you for reading our gameplay guidelines! 😄&lt;/h1&gt;
 </content>
     </item>
     
     <item>
-      <title>Season 4 Rules (Candidate1)</title>
+      <title>Welcome to the WardenSMP website!</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on June 16th, and plan to stick with the vanilla survival game!
+The website has been made pink to match with the new Cherry Grove biome in the 1.20 Trails &amp;amp; Tales Update!
+Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.</description>
+      <content>&lt;p&gt;WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on &lt;a href=&#34;https://www.tickcounter.com/countdown/4207125/&#34;&gt;June 16th&lt;/a&gt;, and plan to stick with the vanilla survival game!&lt;br&gt;
+The website has been made &lt;strong&gt;pink&lt;/strong&gt; to match with the new &lt;a href=&#34;https://aka.ms/Soothing-Cherry-Grove/&#34;&gt;Cherry Grove&lt;/a&gt; biome in the 1.20 &lt;a href=&#34;https://aka.ms/Trails-and-Tales-Java&#34;&gt;Trails &amp;amp; Tales Update&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.&lt;br&gt;
+To join, please contact _A13x. If you are a member, ask _A13X to add you to our Google Chat groups to receive announcements and to communicate.&lt;/p&gt;
+&lt;p&gt;Also check out our &lt;a href=&#34;/rules&#34;&gt;rules&lt;/a&gt; and &lt;a href=&#34;/guidelines/&#34;&gt;guideliness&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to take a look at our first season, you can check out the &lt;a href=&#34;/recap1/&#34;&gt;WardenSMP Season 1 Recap&lt;/a&gt;. Recaps for Seasons 2 and 3 are coming soon!&lt;/p&gt;
+&lt;h4 id=&#34;feel-free-to-contact-_a13x-with-any-questions-comments-or-suggestions-you-may-have&#34;&gt;Feel free to contact _A13X with any questions, comments, or suggestions you may have.&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Either personally,&lt;/li&gt;
+&lt;li&gt;Using &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20join%20WardenSMP%20because...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;Or in-game using &amp;ldquo;/mail send _A13X (your message)&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Season 4 Rules (v1)</title>
       <link>/rules/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -100,37 +134,20 @@ Do not use clients, mods, or packs that give you an unfair advantage. Absolutely
 &lt;ol&gt;
 &lt;li&gt;Do not continually target or bully somebody with the intent of upsetting them.&lt;/li&gt;
 &lt;li&gt;Don&amp;rsquo;t take (steal) items or blocks of value from other players without their permission. This includes chests set up for things like public shops.&lt;/li&gt;
-&lt;li&gt;Although &lt;strong&gt;Greifing and Killing are not explicitly disallowed&lt;/strong&gt;, you must respect the time and effort that people have put into their work. Don&amp;rsquo;t go around the world placing random blocks or destroying landscapes that others will have to clean up if they want to use.&lt;/li&gt;
+&lt;li&gt;Although &lt;strong&gt;Greifing and Killing are not explicitly disallowed&lt;/strong&gt;, you must respect the time and effort that people have put into their work. Don&amp;rsquo;t go around the world placing random blocks or destroying landscapes (that others will inevitably have to clean up if they want to build on).&lt;/li&gt;
 &lt;li&gt;If you plan to prank somebody, make sure it&amp;rsquo;s not too extreme. Try to prank only people that are on friendly terms with you, and make sure your pranks don&amp;rsquo;t disrupt anybody who doesn&amp;rsquo;t want to get involved.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Contact _A13X if you need or want to suggest &lt;strong&gt;anything&lt;/strong&gt;!&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Either personally or using this email address: &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20talk%20to%20you%20about...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Either personally,&lt;/li&gt;
+&lt;li&gt;Using &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20talk%20to%20you%20about...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;Or in-game using &amp;ldquo;/mail send _A13X (your message)&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;thank-you-for-reading-our-rules-&#34;&gt;Thank you for reading our rules! 😄&lt;/h1&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Welcome to the WardenSMP website!</title>
-      <link>/posts/welcome/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/welcome/</guid>
-      <description>WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on June 16th, and plan to stick with the vanilla survival game!
-The website has been made pink to match with the new Cherry Grove biome in the 1.20 Trails &amp;amp; Tales Update!
-Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.</description>
-      <content>&lt;p&gt;WardenSMP is a Minecraft Java survival server with plenty to do! We are starting our 4th season on &lt;a href=&#34;https://www.tickcounter.com/countdown/4207125/&#34;&gt;June 16th&lt;/a&gt;, and plan to stick with the vanilla survival game!&lt;br&gt;
-The website has been made &lt;strong&gt;pink&lt;/strong&gt; to match with the new &lt;a href=&#34;https://aka.ms/Soothing-Cherry-Grove/&#34;&gt;Cherry Grove&lt;/a&gt; biome in the 1.20 &lt;a href=&#34;https://aka.ms/Trails-and-Tales-Java&#34;&gt;Trails &amp;amp; Tales Update&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;Please note that this is a closed sever, so only people that know the owner or have been invited by a member are permitted to join.&lt;br&gt;
-To join, please contact _A13x. If you are a member or have been invited, please join our Google Chat groups to receive announcements and to communicate. Ask _A13X to invite you.&lt;br&gt;
-Contact _A13X either directly or using &lt;a href=&#34;mailto:alexbogo2007@protonmail.com?subject=WardenSMP&amp;amp;body=Hi%2C%20I%20would%20like%20to%20join%20WardenSMP%20because...&#34;&gt;alexbogo2007@protonmail.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Also check out our &lt;a href=&#34;/rules&#34;&gt;rules&lt;/a&gt; and &lt;a href=&#34;/guidelines/&#34;&gt;guideliness&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like to take a look at our first season, you can check out the &lt;a href=&#34;/recap1/&#34;&gt;WardenSMP Season 1 Recap&lt;/a&gt;. Recaps for Seasons 2 and 3 are coming soon!&lt;/p&gt;
 </content>
     </item>
     
